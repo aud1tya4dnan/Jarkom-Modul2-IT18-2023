@@ -2,8 +2,8 @@
 
 # lapres
 
-1. Keisya Nabila Zahra (5027211058)
-2. Auditya Maulana Adnan (5027211068)
+    1. Keisya Nabila Zahra    (5027211058)
+    2. Auditya Maulana Adnan  (5027211068)
 
 # Laporan Resmi Praktikum 2 Jarkom
 
