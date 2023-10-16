@@ -124,10 +124,6 @@ selanjutnya pada seluruh node masukkan command seperti berikut
 echo nameserver 192.168.122.1 > /etc/resolv.conf
 ```
 
-maka setiap node akan dapat mengakses internet seperti berikut :
-
-************[foto]************
-
 setelah dapat mengakses internet, kita dapat melakukan instalasi dependesi yang di perlukan untuk masing-masing node, dan masukkan ke /.bashrc 
 
 **************Client************** 
