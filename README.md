@@ -11,13 +11,13 @@
 
 Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian [sebagai berikut.](https://docs.google.com/spreadsheets/d/1OqwQblR_mXurPI4gEGqUe7v0LSr1yJViGVEzpMEm2e8/edit?usp=sharing) Folder topologi dapat diakses pada [drive berikut](https://drive.google.com/drive/folders/1Ij9J1HdIW4yyPEoDqU1kAwTn_iIxg3gk?usp=sharing)
 
-![Untitled](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/6695d54d-8637-4c28-8254-5a8965194a9d)
+![08](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/d4602709-fdef-4208-b689-892133ebb3df)
 
 ---
 
 untuk mengerjakan soal nomor 1,  pertama-tama kami mencoba membuat topologi sesuai dengan pembagian topologi yaitu yang kami dapatkan adalah topologi 8 seperti berikut.
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled.png)
+![Untitled](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/6695d54d-8637-4c28-8254-5a8965194a9d)
 
 setelah itu, kami membuat konfigurasi untuk masing masing node seperti berikut 
 
@@ -239,7 +239,7 @@ nameserver 192.242.2.2 # IP ArjunaLoadBalancer
 
 selanjutnya cobalah ping [arjuna.it18.com](http://arjuna.IT18.com) dan ping [www.arjuna.it18.com](http://www.arjuna.IT18.com) sehingga hasilnya seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%201.png)
+![Untitled 1](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/144c236a-f632-4e39-8823-d82865120c10)
 
 ---
 
@@ -308,7 +308,7 @@ nameserver 192.242.1.4 # IP AbimanyuWebServer
 
 selanjutnya cobalah ping [abimanyu.it18.com](http://arjuna.IT18.com) dan ping [www.abimanyu.it18.com](http://www.arjuna.IT18.com) sehingga hasilnya seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%202.png)
+![Untitled 2](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/58696f3c-9771-4dfb-898f-853707c1803a)
 
 ---
 
@@ -368,7 +368,7 @@ nameserver 192.242.1.4 # IP AbimanyuWebServer
 
 selanjutnya cobalah ping parikesit.[abimanyu.it18.com](http://arjuna.IT18.com) dan ping [www.parikesit.abimanyu.it18.com](http://www.arjuna.IT18.com) sehingga hasilnya seperti berikut
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%203.png)
+![Untitled 3](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/233f40f0-7ff4-4240-8531-bd2301d772b3)
 
 ---
 
@@ -408,7 +408,7 @@ $TTL    604800
 
 Kemudian cobalah cek dengan command `host -t PTR 192.242.1.4` pada client seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%204.png)
+![Untitled 4](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/2d0b6020-3128-45fd-b6c6-cb5397fa5081)
 
 ---
 
@@ -475,9 +475,10 @@ nameserver 192.242.2.3 # IP WerkudaraDNSSlave
 
 Lalu, cobalah untuk ping [arjuna.it18.com](http://arjuna.it18.com), [www.arjuna.it18.com](http://www.arjuna.it18.com), [abimanyu.it18.com](http://abimanyu.it18.com) dan [www.abimanyu.it18.com](http://www.abimanyu.it18.com) seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%205.png)
+![Untitled 5](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/2ffbf650-a040-477e-b7cf-67aed284e3cf)
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%206.png)
+![Untitled 6](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/348b5160-c9aa-41ea-8f2d-5c8ab06bd520)
+
 
 ---
 
@@ -598,7 +599,7 @@ nameserver 192.242.2.3 # IP WerkudaraDNSSlave
 
 kemudian cobalah testing di client dengan ping [baratayuda.abimanyu.it18.com](http://baratayuda.abimanyu.it18.com) dan ping [www.baratayuda.it18.com](http://www.baratayuda.it18.com) seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%207.png)
+![Untitled 7](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/063da929-6fe7-49d4-b991-7a9882fbb81e)
 
 ---
 
@@ -654,7 +655,7 @@ nameserver 192.242.2.3 # IP WerkudaraDNSSlave
 
 Kemudian di client cobalah testing dengan ping [rjp.baratayuda.abimanyu.it18.com](http://rjp.baratayuda.abimanyu.it.com) dan [www.rjp.baratayuda.abimanyu.it18.com](http://www.rjp.baratayuda.abimanyu.it18.com) seperti berikut
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%208.png)
+![Untitled 8](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/1fae06ac-b444-4c2b-b3c3-92892af963c8)
 
 ---
 
@@ -678,7 +679,7 @@ service nginx start
 
 Kemudian lakukan checking dan pastikan nginx pada seluruh webserver dan ArjunaLoadBalancer sudah online. Lalu lakukan testing pada webserver dengan command `curl -sSf [http://localhost](http://localhost)` dan didapatkan hasil seperti berikut. 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%209.png)
+![Untitled 9](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/a8cf8759-92a4-4558-b045-fc7377f68189)
 
 ---
 
@@ -767,7 +768,7 @@ service nginx restart
 
 lalu lakukan testing dengan command `lynx 192.242.2.2` secara 3 kali  seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2010.png)
+<img width="389" alt="Untitled 10" src="https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/14e44037-f288-49a4-bb6b-cdf64a5ee10f">
 
 ![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2011.png)
 
