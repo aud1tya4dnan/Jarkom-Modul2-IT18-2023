@@ -307,6 +307,7 @@ nameserver 192.242.1.4 # IP AbimanyuWebServer
 ```
 
 selanjutnya cobalah ping [abimanyu.it18.com](http://arjuna.IT18.com) dan ping [www.abimanyu.it18.com](http://www.arjuna.IT18.com) sehingga hasilnya seperti berikut 
+
 ![Untitled 2](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/b6f0b57a-2838-4112-9a78-5c73432b1dc0)
 
 
@@ -368,7 +369,8 @@ nameserver 192.242.1.4 # IP AbimanyuWebServer
 
 selanjutnya cobalah ping parikesit.[abimanyu.it18.com](http://arjuna.IT18.com) dan ping [www.parikesit.abimanyu.it18.com](http://www.arjuna.IT18.com) sehingga hasilnya seperti berikut
 
-![Untitled 3](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/233f40f0-7ff4-4240-8531-bd2301d772b3)
+![Untitled 3](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/294ee334-b3dd-4847-bbb8-91d6bd8cc8a1)
+
 
 ---
 
