@@ -239,7 +239,7 @@ nameserver 192.242.2.2 # IP ArjunaLoadBalancer
 
 selanjutnya cobalah ping [arjuna.it18.com](http://arjuna.IT18.com) dan ping [www.arjuna.it18.com](http://www.arjuna.IT18.com) sehingga hasilnya seperti berikut 
 
-![Untitled 1](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/144c236a-f632-4e39-8823-d82865120c10)
+![Untitled 1](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/f00ae6e8-0c87-413e-a77b-9ef5c87cecbd)
 
 ---
 
