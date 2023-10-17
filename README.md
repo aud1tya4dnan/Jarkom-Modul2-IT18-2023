@@ -773,9 +773,10 @@ lalu lakukan testing dengan command `lynx 192.242.2.2` secara 3 kali  seperti be
 
 <img width="389" alt="Untitled 10" src="https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/14e44037-f288-49a4-bb6b-cdf64a5ee10f">
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2011.png)
+<img width="385" alt="Untitled 11" src="https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/94ce882e-f563-4449-959b-f1ec215dd6bf">
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2012.png)
+<img width="388" alt="Untitled 12" src="https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/e0015d9f-bb17-4dff-9ebc-5ec3b09b3d1f">
+
 
 ---
 
@@ -836,7 +837,7 @@ service apache2 restart
 
 untuk testing, kita lakukan di client dan kita lakukan command `curl -sSf [www.abimanyu.it18.com](http://www.abimanyu.it18.com/)` dan didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2013.png)
+![Untitled 13](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/f9c48e99-0c9e-49ca-b086-da1c5d3dae12)
 
 ---
 
@@ -863,11 +864,11 @@ service apache2 restart
 
 untuk testing, kita lakukan di client dengan menggunakan command `lynx [www.abimanyu.it18.com/index/php/home](http://www.abimanyu.it18.com/index/php/home)` dan didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2014.png)
+![Untitled 14](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/a0a46e24-de71-43c0-b7b3-330ef0aeee2d)
 
 kemudian selanjutnya testing untuk `lynx [www.abimanyu.it18.com/home](http://www.abimanyu.it18.com/home)` dan didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2015.png)
+![Untitled 15](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/3fb3ba01-5abc-4105-be07-c9093ac1ba02)
 
 ---
 
@@ -924,7 +925,7 @@ service apache restart
 
 Untuk testing, lakukan testing dengan command `lynx [www.parikesit.abimanyu.it18.com](http://www.parikesit.abimanyu.it18.com/)` dan didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2016.png)
+![Untitled 16](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/6c01ade6-7080-46b9-a4ec-98f27b167353)
 
 ---
 
@@ -967,11 +968,11 @@ service apache2 restart
 
 Selanjutnya, lakukan testing pada client dengan command `lynx [parikesit.abimanyu.it18.com/public](http://parikesit.abimanyu.it18.com/public)`  dan didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2017.png)
+![Untitled 17](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/25720d03-a6e1-4c7f-8cd2-7cbb5e25d3b7)
 
 Lakukan juga testing pada client dengan command `lynx [parikesit.abimanyu.it18.com/secret](http://parikesit.abimanyu.it18.com/secret)` sehingga di dapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2018.png)
+![Untitled 18](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/8336ee48-9806-47e1-afdf-fea0151dc547)
 
 ---
 
@@ -1017,11 +1018,11 @@ service apache2 restart
 
 lakukan testing error pada client dengan command `lynx www.parikesit .abimanyu.it18.com/haloerror` sehingga didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2019.png)
+![Untitled 19](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/682da0c1-50f5-4af0-bf38-4a4fd5d84d00)
 
 lakukan testing juga pada client dengan command `lynx www.parikesit .abimanyu.it18.com/secret` sehingga didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2020.png)
+![Untitled 20](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/3fce8ae5-b2d6-4fc9-909f-a63ac2b6bb67)
 
 ---
 
@@ -1068,7 +1069,7 @@ service apache2 restart
 
 lakukan testing pada client dengan command `lynx [www.parikesit.abimanyu.it18.com/js](http://www.parikesit.abimanyu.it18.com/js)` sehingga didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2021.png)
+![Untitled 21](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/6b9aa8f6-cd08-49d0-9f23-0d9b91002d6d)
 
 ---
 
@@ -1131,11 +1132,11 @@ service apache2 restart
 
 masukkan resource data yang telah di berikan di soal dan kemudian lakukan testing di client dengan command `lynx [rjp.baratayuda.abimanyu.it18.com:14000](http://rjp.baratayuda.abimanyu.it18.com:14000/)` atau `[rjp.baratayuda.abimanyu.it18.com:14400](http://rjp.baratayuda.abimanyu.it18.com:14400)` sehingga di dapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2022.png)
+![Untitled 22](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/f0740311-0a56-4938-8a65-aa31c58f2b87)
 
 testing juga menggunakan port yang berbeda, disini kami menggunakan port 144111 dengan command `lynx [rjp.baratayuda.abimanyu.it18.com:1441](http://rjp.baratayuda.abimanyu.it18.com:1441/)11` seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2023.png)
+![Untitled 23](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/6f683254-6459-4714-8189-e0ae419df003)
 
 ---
 
@@ -1189,13 +1190,14 @@ service apache2 restart
 
 kemudian, lakukan testing pada client dengan command `lynx [rjp.baratayuda.abimanyu.it18.com:14000](http://rjp.baratayuda.abimanyu.it18.com:14000/)` sehingga didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2024.png)
+![Untitled 24](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/390a019b-073e-4bb8-a0bb-6c909b1773a8)
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2025.png)
+![Untitled 25](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/1d632235-f5b9-43d5-9882-408f917fa040)
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2026.png)
+![Untitled 26](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/6648f4cd-5c2f-4725-9976-aa6b0117347d)
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2027.png)
+![Untitled 27](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/975e5e2a-3a4a-4bd5-8269-21e18a0f3fbb)
+
 
 ---
 
@@ -1233,9 +1235,9 @@ service apache2 restart
 
 kemudian lakukan testing dengan command `lynx 192.242.1.4` sehingga didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2028.png)
+![Untitled 28](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/eadbef94-ead6-4156-bb5b-859aaede5480)
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2029.png)
+![Untitled 29](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/fa76ff04-7092-421c-af4a-2f9b7a6e9ce2)
 
 ---
 
@@ -1296,7 +1298,7 @@ echo -e '<VirtualHost *:80>
 </VirtualHost>' > /etc/apache2/sites-available/parikesit.abimanyu.it18.com.conf
 ```
 
-akukan restart apache dengan command berikut 
+lakukan restart apache dengan command berikut 
 
 ```bash
 service apache2 restart
@@ -1304,14 +1306,15 @@ service apache2 restart
 
 kemudian lakukan testing dengan command `lynx [parikesit.abimanyu.it18.com/public/images/abimanyu-student.jpg](http://parikesit.abimanyu.it18.com/public/images/abimanyu-student.jpg)` sehingga didapatkan hasil seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2030.png)
+![Untitled 30](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/dd7d63c9-74e9-45c3-95c7-c73246983786)
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2031.png)
+![Untitled 31](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/ed53ea76-90bd-4047-87b9-b693d4b450aa)
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2032.png)
+![Untitled 32](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/bf270b3d-9ac2-49f7-a50c-f2d0e4d9f670)
 
 lakukan juga testing menggunakan command `lynx [parikesit.abimanyu.it18.com/public/images/not-abimanyu.png](http://parikesit.abimanyu.it18.com/public/images/not-abimanyu.png)` seperti berikut 
 
-![Untitled](lapres%2007c6b4e726964cb5b4879b624b1f0d63/Untitled%2033.png)
+![Untitled 33](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/b0c8aed4-2022-4a1f-9443-8af74646424f)
+
 
 ---
