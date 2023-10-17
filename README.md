@@ -410,7 +410,8 @@ $TTL    604800
 
 Kemudian cobalah cek dengan command `host -t PTR 192.242.1.4` pada client seperti berikut 
 
-![Untitled 4](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/2d0b6020-3128-45fd-b6c6-cb5397fa5081)
+![Untitled 4](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/3529d861-15eb-4fc3-a1a3-d1c9847c821f)
+
 
 ---
 
