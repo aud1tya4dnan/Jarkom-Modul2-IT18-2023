@@ -11,7 +11,7 @@
 
 Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian [sebagai berikut.](https://docs.google.com/spreadsheets/d/1OqwQblR_mXurPI4gEGqUe7v0LSr1yJViGVEzpMEm2e8/edit?usp=sharing) Folder topologi dapat diakses pada [drive berikut](https://drive.google.com/drive/folders/1Ij9J1HdIW4yyPEoDqU1kAwTn_iIxg3gk?usp=sharing)
 
-![08.jpg](lapres%2007c6b4e726964cb5b4879b624b1f0d63/08.jpg)
+![Untitled](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/6695d54d-8637-4c28-8254-5a8965194a9d)
 
 ---
 
