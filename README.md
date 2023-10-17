@@ -17,7 +17,7 @@ Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjun
 
 untuk mengerjakan soal nomor 1,  pertama-tama kami mencoba membuat topologi sesuai dengan pembagian topologi yaitu yang kami dapatkan adalah topologi 8 seperti berikut.
 
-![Untitled](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/6695d54d-8637-4c28-8254-5a8965194a9d)
+![Untitled](https://github.com/aud1tya4dnan/Jarkom-Modul2-IT18-2023/assets/107627453/915ac8f7-c645-43bf-bc41-7c07dbb13b09)
 
 setelah itu, kami membuat konfigurasi untuk masing masing node seperti berikut 
 
