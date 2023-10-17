@@ -1,6 +1,6 @@
 # Jarkom-Modul2-IT18-2023
 
-# lapres
+# lapres (Laporan Resmi)
 
     1. Keisya Nabila Zahra    (5027211058)
     2. Auditya Maulana Adnan  (5027211068)
